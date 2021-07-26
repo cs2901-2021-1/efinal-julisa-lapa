@@ -5,14 +5,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>practicep</artifactId>
+    <artifactId>efinal-julisa-lapa</artifactId>
     <version>0.1</version>
 
-<!--     <properties>
-        <sonar.projectKey>cs2901-2021-1_e1-sec02-examen-parcial-yumilr</sonar.projectKey>
+    <properties>
+        <sonar.projectKey>cs2901-2021-1_efinal-julisa-lapa</sonar.projectKey>
         <sonar.organization>cs2901-2021-1</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-    </properties> -->
+    </properties>
 
     <dependencies>
         <dependency>

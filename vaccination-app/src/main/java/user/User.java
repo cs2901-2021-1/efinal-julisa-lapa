@@ -3,14 +3,12 @@ package user;
 public class User {
     String dni;
     String nombre;
-    String destino;
-    int dinero;
+    String password;
 
-    public User(String dni, String nombre, String destino, int dinero) {
+    public User(String dni, String nombre, String password) {
         setDni(dni);
         setNombre(nombre);
-        setDestino(destino);
-        setDinero(dinero);
+        setpassword(password);
     }
 
     public String getDni() {
@@ -29,25 +27,11 @@ public class User {
         this.nombre = nombre;
     }
 
-    public String getDestino() {
-        return destino;
+    public String getpassword() {
+        return password;
     }
 
-    public void setDestino(String destino) {
-        this.destino = destino;
+    public void setpassword(String password) {
+        this.password = password;
     }
-
-    public int getDinero() {
-        return dinero;
-    }
-
-    public void setDinero(int dinero) {
-        this.dinero = dinero;
-    }
-
-
-
-
-
-
 }
