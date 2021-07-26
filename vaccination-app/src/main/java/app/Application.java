@@ -19,7 +19,7 @@ public class Application {
     public void visualize(){
         for (int i = 0; i < vaccinationCenterList.size(); i++){
             var temp = vaccinationCenterList.get(i);
-            logger.log(Level.FINE,"Avance de la Vacunación (%):",temp.getP_vaccines());
+            logger.log(Level.FINE,"Avance de la Vacunación (%):",temp.getPvaccines());
         }
     }
 }
