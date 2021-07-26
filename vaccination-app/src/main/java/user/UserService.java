@@ -1,10 +1,8 @@
 package user;
 
-import app.Main;
-
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import vaccinationCenter.VaccinationCenter;
+import vaccinationcenter.VaccinationCenter;
 
 import static constants.GlobalConstants.DADO_ALTA;
 import static constants.GlobalConstants.DADO_BAJA;
@@ -15,7 +13,7 @@ public class UserService implements UserRepository{
     UserRepository userRepository;
     User user;
 
-    static final Logger logger = Logger.getLogger(Main.class.getName());
+    static final Logger logger = Logger.getLogger(UserService.class.getName());
 
     @Override
     public boolean exists(String nombre){

@@ -1,3 +1,5 @@
 GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
-efinal-julisa-lapa,app,Main,12,0,0,0,4,0,3,0,3,0
-efinal-julisa-lapa,user,User,43,0,0,0,18,0,9,0,9,0
+efinal-julisa-lapa,app,Application,32,0,2,0,7,0,5,0,4,0
+efinal-julisa-lapa,vaccinationCenter,VaccinationCenter,63,0,0,0,26,0,13,0,13,0
+efinal-julisa-lapa,user,User,33,0,0,0,14,0,7,0,7,0
+efinal-julisa-lapa,user,UserService,67,0,6,0,17,0,10,0,7,0

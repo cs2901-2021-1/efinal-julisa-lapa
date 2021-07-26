@@ -1,6 +1,6 @@
 package app;
 
-import vaccinationCenter.VaccinationCenter;
+import vaccinationcenter.VaccinationCenter;
 
 import java.util.List;
 import java.util.logging.Level;
@@ -9,7 +9,7 @@ import java.util.logging.Logger;
 public class Application {
     List<VaccinationCenter> vaccinationCenterList;
 
-    static final Logger logger = Logger.getLogger(Main.class.getName());
+    static final Logger logger = Logger.getLogger(Application.class.getName());
 
 
     public void notifyUser(String evento){

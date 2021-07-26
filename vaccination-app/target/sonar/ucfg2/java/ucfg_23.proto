@@ -1,0 +1,45 @@
+
+,user.UserService#exists(Ljava/lang/String;)Z|
+r/home/jlr/Desktop/CICLO5/Ing Software/Final/efinal-julisa-lapa/vaccination-app/src/main/java/user/UserService.java ("startingBlock*î
+startingBlock|
+r/home/jlr/Desktop/CICLO5/Ing Software/Final/efinal-julisa-lapa/vaccination-app/src/main/java/user/UserService.java ((…
+∆
+|
+r/home/jlr/Desktop/CICLO5/Ing Software/Final/efinal-julisa-lapa/vaccination-app/src/main/java/user/UserService.java (
+%3"
+__annotate*
+java.lang.Override*
+
+nombrejava.lang.String≥
+∞
+|
+r/home/jlr/Desktop/CICLO5/Ing Software/Final/efinal-julisa-lapa/vaccination-app/src/main/java/user/UserService.java! ('
+nombrejava.lang.String"__annotation*
+
+%3*
+1*ø
+1|
+r/home/jlr/Desktop/CICLO5/Ing Software/Final/efinal-julisa-lapa/vaccination-app/src/main/java/user/UserService.java (∏
+µ
+|
+r/home/jlr/Desktop/CICLO5/Ing Software/Final/efinal-julisa-lapa/vaccination-app/src/main/java/user/UserService.java (!
+%0	user.User"__id**
+user.UserService"
+user‚ﬂ
+|
+r/home/jlr/Desktop/CICLO5/Ing Software/Final/efinal-julisa-lapa/vaccination-app/src/main/java/user/UserService.java (-
+%1java.lang.String"'user.User#getNombre()Ljava/lang/String;*
+
+%0	user.User2getNombre()íè
+|
+r/home/jlr/Desktop/CICLO5/Ing Software/Final/efinal-julisa-lapa/vaccination-app/src/main/java/user/UserService.java (.
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+nombrejava.lang.String*
+
+%1java.lang.String2equals(Ljava/lang/Object;)"Ü
+|
+r/home/jlr/Desktop/CICLO5/Ing Software/Final/efinal-julisa-lapa/vaccination-app/src/main/java/user/UserService.java (/
+"":
+nombrejava.lang.StringB
+user.UserService
