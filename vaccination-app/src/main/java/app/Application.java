@@ -1,10 +1,8 @@
 package app;
 
-import user.User;
 import vaccinationCenter.VaccinationCenter;
 
 import java.util.List;
-import java.util.Map;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 

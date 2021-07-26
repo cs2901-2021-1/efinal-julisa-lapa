@@ -2,10 +2,8 @@ package user;
 
 import app.Main;
 
-import java.io.IOException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import user.UserRepository;
 import vaccinationCenter.VaccinationCenter;
 
 import static constants.GlobalConstants.DADO_ALTA;
